@@ -1,6 +1,6 @@
 <!-- Intro Banner GIF -->
 <p align="center">
-  <img src="https://github.com/sarthakshukla74/sarthakshukla74/blob/main/githubgif.gif?raw=true" width="50%" height="300px" />
+  <img src="https://github.com/sarthakshukla74/sarthakshukla74/blob/main/githubgif.gif?raw=true" width="90%" height="300px" />
 </p>
 
 # 👋 Hey, I'm Sarthak!
