@@ -1,3 +1,8 @@
+<!-- Intro Banner GIF -->
+<p align="center">
+  <img src="https://github.com/sarthakshukla74/sarthakshukla74/blob/main/githubgif.gif?raw=true" width="50%" height="300px" />
+</p>
+
 # 👋 Hey, I'm Sarthak!
 
 [![Profile Views](https://komarev.com/ghpvc/?username=sarthakshukla74&style=flat-square)](https://github.com/sarthakshukla74)
@@ -40,12 +45,3 @@ I love blending **problem-solving & creativity** — whether it's coding, analyz
 My daily routine: ☕ → code → **lift** → learn → repeat 💪  
 
 ---
-
-## ⚡ Jarvis Zone
-<img src="https://64.media.tumblr.com/c63c337d373de3dc1f6a48ad91af792d/b834226b7e952735-0c/s1280x1920/98f6a49dbca5254eb4048f641e6bb746f6d05eab.gif" width="100%" />
-
----
-
-## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-shukla-b37699295/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarthakshukla2105@gmail.com)  
