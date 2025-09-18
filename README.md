@@ -29,7 +29,7 @@
 ## 📈 GitHub Stats
 ![Sarthak's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarthakshukla74&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=sarthakshukla74&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sarthakshukla74&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=sarthakshukla74&theme=dark&hide_border=false)
 
 ---
 
