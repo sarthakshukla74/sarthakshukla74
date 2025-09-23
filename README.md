@@ -3,7 +3,7 @@
   <img src="https://github.com/sarthakshukla74/sarthakshukla74/blob/main/githubgif.gif?raw=true" width="90%" height="300px" />
 </p>
 
-# 👋 Hey, I'm Sarthak!
+<h1 align="center">👋 Hey, I'm Sarthak!</h1>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=sarthakshukla74&style=flat-square)](https://github.com/sarthakshukla74)
 
